@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+table {
+    border-collapse: collapse;
+    width:600px;
+
+}
+
+td ,th{
+
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.thead-dark{
+    background-color: black;
+    color:white;
+}
+#total{
+    text-align: center;
+}
